@@ -1,5 +1,3 @@
-Thank you for visiting this website.
-
 ---
 permalink: /
 title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
@@ -9,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+Thank you for visiting this website.
 
 I changed this content to include my name.
 I am Ling Leander.
